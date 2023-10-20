@@ -1,0 +1,12 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+#nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ee151513; 
+    z-index: 1000;
+}
